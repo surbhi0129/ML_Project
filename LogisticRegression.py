@@ -1,7 +1,4 @@
-"""
-Breast cancer Wisconsin dataset 
-@author: sk
-"""
+
 
 import pandas as pd
 import numpy as np
